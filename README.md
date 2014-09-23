@@ -1,4 +1,4 @@
-###AndroidAnimationDemo
+###AndroidAnimationDemo  微博的特效
 -----
 Android Animation Demo
 
